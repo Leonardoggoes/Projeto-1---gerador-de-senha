@@ -1,2 +1,2 @@
 # Projeto-1---Gerador-De-Senhas
- Gerador de Senhas em JS
+ Projeto de um gerador de senhas em javascript para fixação de conteúdo de js
